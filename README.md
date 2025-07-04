@@ -26,13 +26,9 @@ Documentation
 Follow these steps to set up and run the project:
 
 1. Clone this repository
-
-git clone <repository-url>
-
-> Replace <repository-url> with the actual URL of this repository.
-
-
-
+```bash
+git clone https://github.com/mohammedrashithkp/MathWorks-Minidrone-Competition-2024.git
+```
 
 2. Open the project
 
