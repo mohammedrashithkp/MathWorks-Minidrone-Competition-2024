@@ -46,10 +46,10 @@ Purchase a Parrot Minidrone to conduct extensive offline tests and validate perf
 
 ##  Team Members
 
-[Mohammed Rashith KP](https://github.com/mohammedrashithkp)
-[Niraamay M Dileep](https://github.com/niraamaymd)
-[Arnav Mishra](https://github.com/arnav-mi)
-[Piyush Kumar](https://github.com/piyushx77)
+1. [Mohammed Rashith KP](https://github.com/mohammedrashithkp)
+2. [Niraamay M Dileep](https://github.com/niraamaymd)
+3. [Arnav Mishra](https://github.com/arnav-mi)
+4. [Piyush Kumar](https://github.com/piyushx77)
 
 ## 📝 License
 
