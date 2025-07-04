@@ -102,7 +102,4 @@ This project is shared for educational and non-commercial purposes. Please credi
 Special thanks to MathWorks for organizing this competition and providing invaluable resources and support.
 
 
----
-
-If you’d like, I can help you tweak or extend this further—just let me know!
 
