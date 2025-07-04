@@ -1,9 +1,5 @@
-Absolutely—here’s a clear, polished README draft for your MathWorks Minidrone Competition 2024 project:
 
-
----
-
-MathWorks Minidrone Competition 2024
+# MathWorks Minidrone Competition 2024
 
 This repository contains all the assets developed and used by our team to participate in the MathWorks Minidrone Competition 2024. We were honored to be among the finalists, though we did not secure a win.
 We hope that by sharing our approach and lessons learned, future participants can benefit and build upon our work.
